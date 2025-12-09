@@ -1,0 +1,7 @@
+﻿  ForestGenerator.cpp
+D:\VisualStudioProjects\repos\pgrProject\pgrProject\src\ShaderProgram\Shader.h(10,8): warning C4099: 'Material': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'src/forest/ForestGenerator.cpp')
+      D:\VisualStudioProjects\repos\pgrProject\pgrProject\src\material\Material.h(10,7):
+      see declaration of 'Material'
+  
+  pgrProject.vcxproj -> D:\VisualStudioProjects\repos\pgrProject\x64\Debug\pgrProject.exe
